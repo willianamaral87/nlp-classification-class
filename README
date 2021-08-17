@@ -1,0 +1,91 @@
+##### EXECUCAO 1 #####
+### Decision Tree ###
+Melhores valores  :
+- criterion       : gini
+- max_depth       : 18
+Acurácia          :  0.6222222222222222
+### SVM Linear ###
+Melhores valores  :
+- C               :  5
+Acurácia          :  0.5693732193732195
+### SVM ###
+Melhores valores  :
+- C               :  9
+- kernel          :  linear
+Acurácia          :  0.5656695156695157
+### Random Forest ###
+Melhores valores  :
+- n_estimators    :  7
+- max_depth       :  6
+Acurácia          :  0.6286324786324786
+### Regressão Logística ###
+Melhores valores  :
+- solver          :  newton-cg
+- max_ite         :  95
+Acurácia          :  0.5242165242165242
+### Gaussian Naive Bayes ###
+Melhores valores  :
+- var_smoothing   : 0.001
+Acurácia          :  0.5807692307692307
+
+
+##### EXECUCAO 2 #####
+### Decision Tree ###
+Melhores valores  :
+- criterion       : gini
+- max_depth       : 19
+Acurácia          :  0.6404558404558404
+### SVM Linear ###
+Melhores valores  :
+- C               :  5
+Acurácia          :  0.5693732193732195
+### SVM ###
+Melhores valores  :
+- C               :  9
+- kernel          :  linear
+Acurácia          :  0.5656695156695157
+### Random Forest ###
+Melhores valores  :
+- n_estimators    :  8
+- max_depth       :  4
+Acurácia          :  0.5871794871794872
+### Regressão Logística ###
+Melhores valores  :
+- solver          :  newton-cg
+- max_ite         :  95
+Acurácia          :  0.5242165242165242
+### Gaussian Naive Bayes ###
+Melhores valores  :
+- var_smoothing   : 0.001
+Acurácia          :  0.5807692307692307
+
+
+##### EXECUCAO 3 #####
+### Decision Tree ###
+Melhores valores  :
+- criterion       : gini
+- max_depth       : 3
+Acurácia          :  0.6185185185185185
+### SVM Linear ###
+Melhores valores  :
+- C               :  5
+Acurácia          :  0.5693732193732195
+### SVM ###
+Melhores valores  :
+- C               :  9
+- kernel          :  linear
+Acurácia          :  0.5656695156695157
+### Random Forest ###
+Melhores valores  :
+- n_estimators    :  9
+- max_depth       :  4
+Acurácia          :  0.5913105413105413
+### Regressão Logística ###
+Melhores valores  :
+- solver          :  newton-cg
+- max_ite         :  95
+Acurácia          :  0.5242165242165242
+### Gaussian Naive Bayes ###
+Melhores valores  :
+- var_smoothing   : 0.001
+Acurácia          :  0.5807692307692307
